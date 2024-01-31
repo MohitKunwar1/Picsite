@@ -5,6 +5,10 @@ _Picsite is a dynamic image gallery web application inspired by Unsplash.com. Th
 *******
 
 **Technologies Used :**
-![Reactjs](https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg "Reactjs")
-![Node js](https://brandslogos.com/wp-content/uploads/images/nodejs-logo-vector.svg)
-![Tailwind css](https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo-thumbnail.png "Tailwind css")
+
+
+<img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" alt="React js" width="200">
+
+<img src="https://brandslogos.com/wp-content/uploads/images/nodejs-logo-vector.svg" alt="Node js" width="200">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwindcss" width="200">
